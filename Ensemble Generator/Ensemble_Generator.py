@@ -1,4 +1,4 @@
-'''The code below is a basic implementation of the Wolff Algorithm. Quantities like Net Magnetization, Internal Energy, Average Cluster Size, Autocorrelation Time are calculated'''
+'''The code below is a simple implementation of the Wolff Algorithm. Quantities like Net Magnetization, Internal Energy, Average Cluster Size, Autocorrelation Time are calculated'''
 
 import numpy as np 
 from collections import deque
