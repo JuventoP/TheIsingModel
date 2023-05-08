@@ -134,6 +134,4 @@ if __name__ == '__main__':
     ax[1].legend()
     ax[1].set_xlabel('Internal Energy')
     ax[1].set_ylabel('Count')
-    
-
-    
+ 
